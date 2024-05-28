@@ -1,0 +1,10 @@
+# Basic
+fastapi 
+uvicorn
+
+# Faster way
+streaming-form-data 
+aiofiles
+
+# Async Test
+httpx
